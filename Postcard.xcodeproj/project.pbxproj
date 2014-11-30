@@ -13,6 +13,8 @@
 		F4D01AD219C4AB1D001C6CAC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4D01AD119C4AB1D001C6CAC /* Images.xcassets */; };
 		F4D01AD519C4AB1D001C6CAC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F4D01AD319C4AB1D001C6CAC /* LaunchScreen.xib */; };
 		F4D01AE119C4AB1D001C6CAC /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D01AE019C4AB1D001C6CAC /* PostcardTests.swift */; };
+		F4D01AEB19C64CF1001C6CAC /* 1_SAGRADA_FAMILIA__1_.png in Resources */ = {isa = PBXBuildFile; fileRef = F4D01AEA19C64CF1001C6CAC /* 1_SAGRADA_FAMILIA__1_.png */; };
+		F4D01AED19C76C89001C6CAC /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4D01AEC19C76C89001C6CAC /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		F4D01ADA19C4AB1D001C6CAC /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4D01ADF19C4AB1D001C6CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4D01AE019C4AB1D001C6CAC /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		F4D01AEA19C64CF1001C6CAC /* 1_SAGRADA_FAMILIA__1_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_SAGRADA_FAMILIA__1_.png; sourceTree = "<group>"; };
+		F4D01AEC19C76C89001C6CAC /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		F4D01AC819C4AB1D001C6CAC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F4D01AEC19C76C89001C6CAC /* AlbertEinsteinStamp.jpg */,
+				F4D01AEA19C64CF1001C6CAC /* 1_SAGRADA_FAMILIA__1_.png */,
 				F4D01AC919C4AB1D001C6CAC /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				F4D01AD019C4AB1D001C6CAC /* Main.storyboard in Resources */,
 				F4D01AD519C4AB1D001C6CAC /* LaunchScreen.xib in Resources */,
+				F4D01AED19C76C89001C6CAC /* AlbertEinsteinStamp.jpg in Resources */,
 				F4D01AD219C4AB1D001C6CAC /* Images.xcassets in Resources */,
+				F4D01AEB19C64CF1001C6CAC /* 1_SAGRADA_FAMILIA__1_.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
